@@ -1,13 +1,12 @@
-function App() {
+
+function Maisoku() {
 
     return (
-      <div className="l-All">
+      <div className="l-Maisoku">
          <migiue />
-         <Form />
-         <Maisoku />
       </div>
     )
   }
   
-  export default App
+  export default Maisoku;
   

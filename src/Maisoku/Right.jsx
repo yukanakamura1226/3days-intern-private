@@ -1,4 +1,6 @@
 import Right_1 from "./Right_1"
+import Right_2 from "./Right_2"
+import Right_3 from "./Right_3"
 
 function Right() {
 

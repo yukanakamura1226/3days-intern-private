@@ -1,5 +1,5 @@
-import './App.css'
-import Maisoku from './Under.jsx'
+
+
 
 function Under() {
 

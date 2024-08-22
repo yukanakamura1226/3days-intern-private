@@ -1,5 +1,6 @@
-import './App.css'
-
+import Left_1 from "./Left_1"
+import Left_2 from "./Left_2"
+import Left_3 from "./Left_3"
 
 function Left() {
 
@@ -12,4 +13,4 @@ function Left() {
     )
   }
 
-  export default left
+  export default Left

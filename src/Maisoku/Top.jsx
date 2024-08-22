@@ -1,3 +1,4 @@
+import Left from "./left"
 import Right from "./Right"
 
 function Top() {

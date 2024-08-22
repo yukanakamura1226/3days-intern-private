@@ -2,7 +2,7 @@ function Under_1() {
 
     return (
       <div className="l-Under-1" style={{width:"20%",height:"100%"}}>
-        Under_1 
+        会社名
       </div>
     )
   }

@@ -4,9 +4,9 @@ import Right from "./Right"
 function Top() {
 
     return (
-      <div className="l-Top">
-         <Right/>
+      <div className="l-Top" style={{height: "100%"}}>
          <Left/>
+         <Right/>
       </div>
     )
   }

@@ -5,7 +5,7 @@ import Left_3 from "./Left_3"
 function Left() {
 
     return (
-      <div className="l-left">
+      <div className="l-left" style={{height:"100%",width:"50%",float:"left"}}>
          <Left_1/>
          <Left_2/>
          <Left_3/>

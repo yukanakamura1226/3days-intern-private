@@ -5,7 +5,7 @@ import Under_3 from "./Under_3"
 function Under() {
 
     return (
-      <div className="l-Under" display:frex style={{height:"100%"}}>
+      <div className="l-Under" style={{display: "flex", height:"100%"}}>
          <Under_1/>
          <Under_2/>
          <Under_3/>

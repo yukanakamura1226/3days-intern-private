@@ -2,7 +2,7 @@ function Left_3() {
 
     return (
       <div className="l-Left-3" style={{height:"45%",width:"50%",float:"right"}} >
-        Left_3
+        <img src="public/地図.gif" className="map" style={{height:"100%",width:"100%"}}></img>
       </div>
     )
   }

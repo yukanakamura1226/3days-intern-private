@@ -1,0 +1,74 @@
+/* //                 All
+// ========================================== */
+.form-all {
+    width: 300px;
+    background-color: #FFFCDB;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.form-all h2{
+    text-align: center;
+}
+
+/* //              input-all
+// ========================================== */
+.input-all {
+    margin-bottom: 14px;
+}
+
+
+
+/* //              input-text
+// ========================================== */
+.input-text-all {
+    margin-bottom: 9px;
+}
+
+.input-text {
+    padding-left: 5px;
+    margin-bottom: 6px;
+}
+
+.input-text input{
+    padding: 0px;
+    padding-block: 0px;
+    padding-inline: 0px;
+    width: 90%;
+}
+
+.inputT-input {
+    width: 100%;
+}
+
+/* //              input-picture
+// ========================================== */
+.input-picture {
+    padding-left: 5px;
+    margin-bottom: 6px;
+}
+
+.input-picuter input{
+    width: 90%;
+}
+
+.inputP-input {
+    width: 100%;
+}
+
+.iputP-label {
+    margin-bottom: 2px;
+}
+
+/* //               pre-all
+// ========================================== */
+
+/* //               pre-text
+// ========================================== */
+.pre-text {
+    margin-bottom: 7px;
+}
+
+/* //               pre-picture
+// ========================================== */

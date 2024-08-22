@@ -51,7 +51,7 @@ const FormText = () => {
          }
          )}
         </div>
-        {/* <div>
+        <div>
         {PictureNames.map((picture) => {
           return(
             <div key={picture.index}>
@@ -64,33 +64,6 @@ const FormText = () => {
             </div>)
           })
         }
-        </div> */}
-        <div>
-          <label>間取り:</label>
-          <input
-            type="file"
-            accept="image/*"
-            {...register("photo1")}
-            onChange={(event) => handleImagePreview(event, 0)}
-          />
-        </div>
-        <div>
-          <label>外観:</label>
-          <input
-            type="file"
-            accept="image/*"
-            {...register("photo2")}
-            onChange={(event) => handleImagePreview(event, 1)}
-          />
-        </div>
-        <div>
-          <label>内装:</label>
-          <input
-            type="file"
-            accept="image/*"
-            {...register("photo3")}
-            onChange={(event) => handleImagePreview(event, 2)}
-          />
         </div>
       </form>
 

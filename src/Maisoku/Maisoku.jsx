@@ -1,9 +1,11 @@
 
+import Top from './top.jsx'
 function Maisoku() {
 
     return (
       <div className="l-Maisoku">
-         <migiue />
+         <Top />
+         <under />
       </div>
     )
   }

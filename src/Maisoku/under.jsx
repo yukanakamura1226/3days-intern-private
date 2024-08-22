@@ -1,13 +1,13 @@
 import './App.css'
-import Maisoku from './under.jsx'
+import Maisoku from './Under.jsx'
 
-function under() {
+function Under() {
 
     return (
-      <div className="l-under">
-         <under/>
+      <div className="l-Under">
+         <Under/>
       </div>
     )
   }
   
-  export default under
+  export default Under

@@ -1,11 +1,11 @@
-import Right from "./right"
+import Right from "./Right"
 
 function Top() {
 
     return (
-      <div className="l-top">
+      <div className="l-Top">
          <Right/>
-         <left/>
+         <Left/>
       </div>
     )
   }

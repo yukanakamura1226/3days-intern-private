@@ -1,13 +1,13 @@
 import './App.css'
-import Maisoku from './left.jsx'
 
-function left() {
+
+function Left() {
 
     return (
       <div className="l-left">
-         <left_1/>
-         <left_2/>
-         <left_3/>
+         <Left_1/>
+         <Left_2/>
+         <Left_3/>
       </div>
     )
   }

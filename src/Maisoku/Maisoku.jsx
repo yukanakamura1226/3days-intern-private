@@ -5,7 +5,7 @@ function Maisoku() {
     return (
       <div className="l-Maisoku">
          <Top />
-         <under />
+         <Under />
       </div>
     )
   }

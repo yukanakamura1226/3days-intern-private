@@ -1,10 +1,12 @@
+import Right_1 from "./Right_1"
+
 function Right() {
 
     return (
       <div className="l-right">
-         {/* <right_1/>
-         <right_2/>
-         <right_3/> */}
+         <Right_1/>
+         <Right_2/>
+         <Right_3/>
       </div>
     )
   }

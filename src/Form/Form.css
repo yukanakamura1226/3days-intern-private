@@ -6,6 +6,7 @@
     display: flex;
     flex-direction: column;
     border-radius: 20px;
+    padding: 10px;
 }
 
 .form-all h2{
@@ -17,8 +18,6 @@
 .input-all {
     margin-bottom: 14px;
 }
-
-
 
 /* //              input-text
 // ========================================== */

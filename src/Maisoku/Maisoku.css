@@ -3,4 +3,18 @@
     height: 500px;
     margin-left: 80px;
     padding: 30px;
+    background-color: #FFFCDB;
 }
+
+.l-Under {
+    border: solid 1px #000;
+    margin-top: 20px;
+}
+
+/* .l-Under-1 */
+/* .l-Under-2 */
+.l-Under-3 {
+    text-align: center;
+    /* justify-content: space-between; */
+}
+

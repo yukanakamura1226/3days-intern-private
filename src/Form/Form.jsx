@@ -83,28 +83,6 @@ const Form = () => {
         </form>
       </div>
 
-      <h2>Prevew</h2>
-      <div className="pre-all">
-        {textNames.map((text) => {
-          return(
-            <div key={text.name} className="pre-text">
-              <label className="preT-label">{text.label}:</label><br/>
-              <div className="preT-output">
-                {formData[text.name] || "未入力です。"}
-              </div>
-            </div>)
-          }
-        )}
-        {pictureNames.map((picture) => {
-          return(
-            <div key={picture.index} className="pre-picture">
-              <p className="preP-label"><strong>{picture.label} prevew:</strong></p><br/>
-              {imagePreviews[picture.index] && (
-              <img className="preP-output" src={imagePreviews[picture.index]} alt={`${picture.label}プレビュー`} style={{ maxWidth: "200px" }} />
-              )}
-            </div>)
-          })}
-      </div>
     </div>
   );
 };

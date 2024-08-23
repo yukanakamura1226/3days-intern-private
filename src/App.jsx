@@ -6,7 +6,9 @@ function App() {
   return (
     <div className="l-All">
        <Form />
-       <Maisoku />
+       <div id='pdf-dom'>
+        <Maisoku />
+       </div>
     </div>
   )
 }

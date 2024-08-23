@@ -11,4 +11,4 @@ function Top() {
     )
   }
   
-  export default Top
+  export default Top;

@@ -1,7 +1,7 @@
 /* //                 All
 // ========================================== */
 .form-all {
-    width: 300px;
+    min-width: 300px;
     background-color: #FFFCDB;
     display: flex;
     flex-direction: column;

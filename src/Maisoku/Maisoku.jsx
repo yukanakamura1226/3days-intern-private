@@ -1,5 +1,7 @@
 import Top from './Top.jsx'
 import Under from './Under.jsx';
+import './Maisoku.css'
+
 function Maisoku() {
 
     return (

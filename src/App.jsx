@@ -1,5 +1,6 @@
 import Form from './Form/Form'
 import Maisoku from './Maisoku/Maisoku'
+import './App.css'
 
 function App() {
 
